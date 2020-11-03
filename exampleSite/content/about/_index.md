@@ -16,9 +16,9 @@ description: This is meta description.
 
 <br><br>
 
-## **นายอิฟฟาน  ปาทาน รหัสนักศึกษา 6035512015**
+## 
 
-<h1 style="text-align:center">**นายสุทธิสาร ปิยะรัตน์ รหัสนักศึกษา  6035512007**</h1>
+<h1 style="text-align:center">นายอิฟฟาน  ปาทาน รหัสนักศึกษา 6035512015</h1>
 
 <br><br>
 
