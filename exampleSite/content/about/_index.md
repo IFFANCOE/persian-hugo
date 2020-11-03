@@ -1,7 +1,6 @@
 ---
-title: I'm a Freelance Interactive Art Director Based In France. Focusing Accross
-  Branding And Identity
-image: "/images/ดาวน์โหลด.png"
+title: สมาชิกในกลุ่ม
+image: ''
 description: This is meta description.
 
 ---
@@ -38,4 +37,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna jus
 
 1. Et ipsum euismod et aenean duis.
 2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean d
+3. Rio euismod nulla et aenean 
