@@ -3,7 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
-theme = "persian"
+theme = "On The Road"
 title = "On The Road"
 [markup.goldmark.renderer]
 unsafe = true
