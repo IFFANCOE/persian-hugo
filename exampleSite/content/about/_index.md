@@ -4,37 +4,14 @@ image: ''
 description: This is meta description.
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
+1\.นายสุทธิสาร ปิยะรัตน์ รหัสนักศึกษา6035512007 
 
-<br>
-<br>
+2\.นายอิฟฟานปาทาน รหัสนักศึกษา 6035512015 
 
-## My Education
+3\.นายอัลอามีน ดาโอะ รหัสนักศึกษา6035512018 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
+4\.นายพีรพล กุลเมือง รหัสนักศึกษา 6035512024 
 
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
+5\.นางสาวน่านฟ้า แสงนคร รหัสนักศึกษา 6035512025 
 
-<br>
-<br>
-
-## My Hobbies
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Experiences
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean 
+6\.นางสาวปาริชาติ เครือเตียว รหัสนักศึกษา 6035512076
