@@ -6,9 +6,7 @@ description: This is meta description.
 ---
 <h1 style="text-align:center">นายสุทธิสาร ปิยะรัตน์ รหัสนักศึกษา  6035512007</h1>
 
-<br>
-
-<br>
+<br><br>
 
 ![](/images/67239262_2467376653324926_3347226047094456320_o.jpg)
 
@@ -16,13 +14,13 @@ description: This is meta description.
 
 <br><br>
 
-## 
-
 <h1 style="text-align:center">นายอิฟฟาน  ปาทาน รหัสนักศึกษา 6035512015</h1>
 
 <br><br>
 
-![](/images/img_8484.jpg)
+![](/images/img_8484.jpg)<br>
+
+<br><br>
 
 <h1 style="text-align:center">นายอัลอามีน ดาโอะ รหัสนักศึกษา   6035512018</h1>
 
