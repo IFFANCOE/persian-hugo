@@ -4,25 +4,29 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "5"
 theme = "persian"
-title = "Persian"
+title = "On The Road"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "categories/nature/"
+name = "Category"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+[[menu.main]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]
