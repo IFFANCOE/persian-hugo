@@ -29,4 +29,10 @@ description: this is meta description
 
 ![](/images/111999231_293661642069265_1343731738592555563_o.jpg)<br><br><br>
 
-<h1 style="text-align:center">8.แม่ยายโฮมสเตย์</h1><br>
+<h1 style="text-align:center">8.บ้านป่าบงเปียง</h1><br>
+
+![](/images/119980439_2700978743448782_2506489521626867210_o-2.jpg)<br><br><br>
+
+<h1 style="text-align:center">9.ม่อนจอง</h1><br>
+
+![](/images/121181336_353455782756517_5601313928881576770_o.jpg)<br><br><br>
