@@ -12,41 +12,22 @@ tags:
 - nature
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+" แ ม่ กำ ป อ ง "
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+หมู่บ้านเล็กๆในป่าใหญ่ ตั้งอยู่ท่ามกลางขุนเขาใน อ.แม่ออน จ.เชียงใหม่
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+บรรยากาศเงียบสงบ ล้อมรอบไปด้วยธรรมชาติ มีลำธารไหลผ่าน อากาศเย็นสบาย เหมาะสำหรับการพักผ่อน สูดอากาศบริสุทธิ์ สัมผัสวิถีชีวิตของชาวบ้านและใกล้ๆหมู่บ้านจะมีน้ำตกแม่กำปองด้วย เหมาะกับการนั่งชิวๆแช่น้ำเย็นๆให้ธรรมชาติบำบัด
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+การเดินทาง
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+1\.โดยรถส่วนตัว
+
+บ้านแม่กำปอง ห่างจากตัวเมืองเชียงใหม่ประมาณ 50 km เส้นทางแรกผ่าน อ.สันกำแพง ไปยัง อ.แม่ออน อีกเส้นทางหนึ่งผ่าน อ.ดอยสะเก็ด เลี้ยงขวาตรงสามแยกโป่งดิน เปิด GPS ไปได้เลย แต่แนะนำเส้นทางแรกที่ผ่าน อ.สันกำแพง รถทุกชนิดสามารถไปได้
+
+2\.โดยรถสาธารณะ
+
+มีรถตู้โดยสารสาธารณะ ขึ้นรถที่ขนส่งช้างเผือก สายเชียงใหม่-น้ำพุร้อนสันกำแพง โดยมี 2 รอบ มีรถวิ่งทุกวัน
+
+ขาไปแม่กำปอง มีรอบ 7.30น. และ 11.30น. ขากลับออกจากแม่กำปอง รอบ 9.20 น. และ 13.20น. ไปบ้านแม่กำปองอัตราค่าโดยสาร คนละ 100 บาท
+
+[**https://www.facebook.com/On.the.roadTH/**](https://www.facebook.com/On.the.roadTH/ "https://www.facebook.com/On.the.roadTH/")
