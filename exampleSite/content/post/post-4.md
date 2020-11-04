@@ -18,3 +18,5 @@ tags: []
 ศูนย์บริการท่องเที่ยวดอยม่อนจอง
 
 092-559-7201
+
+[**https://www.facebook.com/On.the.roadTH/**](https://www.facebook.com/On.the.roadTH/ "https://www.facebook.com/On.the.roadTH/")
