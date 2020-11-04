@@ -4,11 +4,8 @@ date: 2020-09-02T06:14:34+00:00
 image: "/images/119980439_2700978743448782_2506489521626867210_o.jpg"
 author: John Doe
 description: This is meta description.
-categories:
-- Tree
-tags:
-- tree
-- nice
+categories: []
+tags: []
 
 ---
 ###  [**บ้านป่าปงเปียง อ.แม่แจ่ม เชียงใหม่**](https://www.facebook.com/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%9B%E0%B8%87%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B8%A2%E0%B8%87-%E0%B8%AD%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-384040648336036/?__cft__%5B0%5D=AZV5bKXx8nEGQObcuaxDJSh4PZ9CRpd-Vr4M82xBRkFfChA8WLJuuugD7oKGWEqrlo1YJGW4L8MQxl--9TC3N839gjv_1CNwt5ygyCKRBK5gE6PkRP6eBliSpqfD8eWbnDCaVZyMqwt4xMQkUx3maS8NfWx3dftvqNrKpr8opiaoLU52un9-Ht28vltocos6MYCI3b52bIXLsBY5WTDnsrd-FCU3oQVV3p-Jmdx52o7Az6ej6vaIiVamquukJ6K3148bJhQ57g6kYQgX7HeiqcV2&__tn__=kC%2CP-y-R)
