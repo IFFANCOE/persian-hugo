@@ -1,49 +1,49 @@
 ---
-title: "Inspirational Monday: Photographing Pairs in Nature"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-3.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["inspire"]
-tags: ["new", "inspire", "nature"]
-draft: false
+title: บ้านห้วยกุ๊บกั๊บ
+date: 2019-05-12T12:14:34.000+06:00
+image: "/images/107893749_279249273510502_6493363408031357558_o.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- inspire
+tags:
+- new
+- inspire
+- nature
+
 ---
+บ้านห้วยกุ๊บกั๊บ หมู่บ้านในม่านหมอก
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+บ้านห้วยกุ๊บกั๊บ ต.กึ๊ดช้าง อ.แม่แตง จ.เชียงใหม่
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+โฮมสเตย์หลักร้อย วิวหลักล้าน สามารถชมพระอาทิตย์ขึ้นตกได้ทั้งสองทาง กลางคืนมีทั้งดาวบนฟ้าและดาวบนดิน เป็นหมู่บ้านที่คนไทยไม่ค่อยรู้จัก ส่วนมากมีแต่ชาวต่างชาติมาเที่ยว หมู่บ้านนี้ไม่มีไฟฟ้า ใช้พลังงานจากแสงอาทิตย์-โซลาเซลล์ เทียนไข สัญญาณโทรศัพท์พอใช้ได้ สัญญาณเน็ตลอยมาตามสายลม ทำให้ได้สัมผัสกับวิถีชีวิตแบบบ้านบนดอยจริงๆ
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+ ราคาที่พัก
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+หลังเล็กราคาคนละ 400 บาท มีห้องน้ำในตัวบ้าน นอนได้ 2 คน
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+หลังใหญ่ราคาคนละ 350 บาท มีห้องน้ำอยู่นอกตัวบ้าน นอนได้ประมาณ 6 คน
+
+ทุกราคารวมอาหาร เย็น-เช้า
+
+หรือใครอยากมากางเต็นท์ก็มีที่ให้ สามารถติดต่อได้
+
+ที่นี่มีเตามีถ่านให้ใช้สามารถซื้อของขึ้นมาปิ้งย่างได้
+
+มีโซลาร์เซลล์กับไฟให้ 1 ดวง
+
+การเดินทาง 
+
+บ้านห้วยกุ๊บกั๊บ ห่างจากตัวเมืองเชียงใหม่ประมาณ 60 กิโลเมตร ใช้เวลาเดินทางไม่เกิน 2 ชั่วโมง
+
+รถส่วนตัวเปิด GPS มาที่ บ้านห้วยกุ๊บกั๊บ ได้เลย หน้าฝนขึ้นได้เฉพาะรถยนต์ 4x4 เท่านั้น ส่วนมอเตอร์ไซค์ขึ้นได้เฉพาะรถแบบเกียร์ธรรมดา เนื่องจากทางลื่นมาก แต่สามารถจอดรถไว้ที่ อบต.กึ๊ดช้าง แล้วโทรให้พ่อหลวง(ผู้ใหญ่บ้าน) ลงมารับได้ เบอร์ 06-1907-7836 พ่อหลวงอธิคม ราคาคนละ 100 บาท
+
+รถสาธารณะ 
+
+ขึ้นรถจากขนส่งช้างเผือก สายเชียงใหม่-ฝาง/ท่าตอน มาลงที่ปากทางเข้าแม่ตะมาน แล้วต่อรถจากปากทางแม่ตะมาน มาบ้านเมืองกื้ด จะมีรถจักรยานยนต์รับจ้าง (ราคา 100-200 บาท) จากนั้นก็โทรให้พ่อหลวงลงมารับ
+
+ติดต่อที่พัก : 06-1907-7836 พ่อหลวงอธิคม
+
+คำเตือน : อาจไม่เหมาะกับคนที่ชอบความสบาย
+
+[**https://www.facebook.com/On.the.roadTH/**](https://www.facebook.com/On.the.roadTH/ "https://www.facebook.com/On.the.roadTH/")
