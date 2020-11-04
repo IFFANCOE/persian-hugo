@@ -12,7 +12,7 @@ tags: []
 
 "เมืองคอง" อ.เชียงดาว จ.เชียงใหม่ หมู่บ้านเล็กๆที่ซ่อนตัวอยู่หลังดอยหลวงเชียงดาว จนหลายคนเรียกว่าเป็นเมืองลับแลของเชียงใหม่ ที่นี่มีแม่น้ำคองไหลผ่าน อากาศเย็นสบาย เงียบสงบ เหมาะกับการหนีความวุ่นวายในเมืองมาพักผ่อน นอนฟังเพลง ฟังเสียงน้ำไหล เสียงแมลง
 
-ตื่นเช้ามาดริปกาแฟ ชมทิวเขา เป็นที่บำบัดชั้นดีเลย 
+ตื่นเช้ามาดริปกาแฟ ชมทิวเขา เป็นที่บำบัดชั้นดีเลย
 
 รอบที่สองของการมาเยือนเมืองคอง
 
@@ -28,7 +28,7 @@ tags: []
 
 บ้าน 4 บ้านสวนผัก : พักได้ 1-2 คน
 
- ราคาที่พัก
+ราคาที่พัก
 
 คนละ 350 บาท (ไม่รวมอาหาร)
 
@@ -42,16 +42,6 @@ tags: []
 
 มีเปลนอนริมน้ำ มีกีต้าร์ ไว้ให้บริการ
 
-ติดต่อ : [**บ้านวังริมคอง โฮมสเตย์**](https://www.facebook.com/barnwangrimkong/?__cft__\[0\]=AZU7CjITgSzTGDj2HjXX7h0PU8ULXsqohjNJqL0ghAyC5KV5av9egCqUVs_TpngBv1-Iugv96DAV02FPXDQsx4ofQLCZdHWs-JKlGXEAQREuj2744xEN4E-IvDtxNI2dMLpMph7r0Mf-JZZ5xUk1s9UnUYkHAWZnyUhim59dm1cw_2vLX8L_p2Vf-iFtjmAAkr4&__tn__=kK-R)
-
 การเดินทาง : รถยนต์ มอเตอร์ไซค์ มาได้หมด
 
- รถสาธารณะติดต่อสอบถามทางที่พักได้เลย
-
-[**https://www.facebook.com/On.the.roadTH/**](https://www.facebook.com/On.the.roadTH/ "https://www.facebook.com/On.the.roadTH/")
-
-[**#CHIANGMAI**](https://www.facebook.com/hashtag/chiangmai?__cft__\[0\]=AZU7CjITgSzTGDj2HjXX7h0PU8ULXsqohjNJqL0ghAyC5KV5av9egCqUVs_TpngBv1-Iugv96DAV02FPXDQsx4ofQLCZdHWs-JKlGXEAQREuj2744xEN4E-IvDtxNI2dMLpMph7r0Mf-JZZ5xUk1s9UnUYkHAWZnyUhim59dm1cw_2vLX8L_p2Vf-iFtjmAAkr4&__tn__=*NK-R)
-
-[**#CHIANGDAO**](https://www.facebook.com/hashtag/chiangdao?__cft__\[0\]=AZU7CjITgSzTGDj2HjXX7h0PU8ULXsqohjNJqL0ghAyC5KV5av9egCqUVs_TpngBv1-Iugv96DAV02FPXDQsx4ofQLCZdHWs-JKlGXEAQREuj2744xEN4E-IvDtxNI2dMLpMph7r0Mf-JZZ5xUk1s9UnUYkHAWZnyUhim59dm1cw_2vLX8L_p2Vf-iFtjmAAkr4&__tn__=*NK-R)
-
-[**#ONTHEROAD**](https://www.facebook.com/hashtag/ontheroad?__cft__\[0\]=AZU7CjITgSzTGDj2HjXX7h0PU8ULXsqohjNJqL0ghAyC5KV5av9egCqUVs_TpngBv1-Iugv96DAV02FPXDQsx4ofQLCZdHWs-JKlGXEAQREuj2744xEN4E-IvDtxNI2dMLpMph7r0Mf-JZZ5xUk1s9UnUYkHAWZnyUhim59dm1cw_2vLX8L_p2Vf-iFtjmAAkr4&__tn__=*NK-R)
+รถสาธารณะติดต่อสอบถามทางที่พักได้เลย
