@@ -6,9 +6,7 @@ author: John Doe
 description: This is meta description.
 categories:
 - writing
-tags:
-- book
-- memo
+tags: []
 
 ---
 คิดถึงความหนาวบนดอยม่อนจอง
