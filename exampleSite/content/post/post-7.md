@@ -4,12 +4,8 @@ date: 2020-01-12T12:14:34.000+06:00
 image: "/images/119635229_333376201431142_7108713997009239088_o.jpg"
 author: John Doe
 description: This is meta description.
-categories:
-- nature
-tags:
-- thumb
-- video
-- top
+categories: []
+tags: []
 
 ---
 " ห นี ค ว า ม วุ่ น ว า ย ม า พั ก ก า ย ที่ เ มื อ ง ค อ ง "
