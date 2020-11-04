@@ -4,12 +4,8 @@ date: 2020-01-12T12:14:34.000+06:00
 image: "/images/100058405_249112136524216_8286438965775433728_o.jpg"
 author: John Doe
 description: This is meta description.
-categories:
-- nature
-tags:
-- thumb
-- video
-- top
+categories: []
+tags: []
 
 ---
 " ด อ ย ม่ อ น เ ง า ะ "
