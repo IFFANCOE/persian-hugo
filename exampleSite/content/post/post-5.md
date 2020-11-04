@@ -6,7 +6,6 @@ author: John Doe
 description: This is meta description.
 categories: []
 tags: []
-draft: true
 
 ---
 ### **บ้านป่าปงเปียง อ.แม่แจ่ม เชียงใหม่**
