@@ -11,7 +11,7 @@ description: this is meta description
 
 ![](/images/119635229_333376201431142_7108713997009239088_o.jpg)<br><br><br>
 
-<h1 style="text-align:center">3.[**ปางอุ๋ง**](https://www.facebook.com/hashtag/%E0%B8%9B%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87?__cft__\[0\]=AZUwhpwyLymoqRJ73Q1Zi8TfIr-btwZ6NPleZwc_bQFtJnTHC09xgYuruv4UOrPpUbajx3pn-OViTpSMzZm7wtbcqFwX0nYFd1RTBSU10p7xRmG75BeF8L3LRmf5CZ6mf5lJLLNvYDiRlI7_LdHaGpvdR6a4cQmcHwoKEEg7zxy3S0EYKifs1dqbIfDobw3jJP8&__tn__=*NK-R)</h1><br>
+<h1 style="text-align:center">3.ปางอุ๋ง</h1><br>
 
 ![](/images/79665918_136480564454041_7810726506874798080_o.jpg)<br><br><br>
 
