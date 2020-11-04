@@ -1,49 +1,25 @@
 ---
-title: "Networks and the Nature of the Firm"
-date: 2020-01-12T12:14:34+06:00
-image: "images/post/post-2.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["nature"]
-tags: ["thumb", "video", "top"]
-draft: false
+title: ดอยม่อนเงาะ
+date: 2020-01-12T12:14:34.000+06:00
+image: "/images/100058405_249112136524216_8286438965775433728_o.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- nature
+tags:
+- thumb
+- video
+- top
+
 ---
+" ด อ ย ม่ อ น เ ง า ะ "
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+ดอยม่อนเงาะ แต่บนดอยไม่ได้มีเงาะแต่อย่างใด 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+จะมีสักกี่คนที่รู้จักหรือคุ้นกับชื่อดอยนี้ ซึ่งรวมถึงผมเองที่รู้จักดอยนี้ 4 ชั่วโมงก่อนหน้าที่จะไปดอยม่อนเงาะตั้งอยู่ที่ อำเภอแม่แตง จังหวัดเชียงใหม่ เป็นดอยที่เงียบสงบไม่ค่อยมีคน ทั้งดอยมีแค่พวกเรา 3 คน บนดอยไม่มีที่พักและร้านอาหาร แต่มีจุดกางเต้นท์และห้องน้ำให้ สามารถมาพักค้างคืนบนจุดชมวิวได้โดยเสียค่าธรรมเนียมดูแลสถานที่ 20 บาทต่อคน ค้างแรม 150 บาท (นำเต้นท์มาเอง) เช่าเต้นท์ 300 บาท พร้อมถุงนอนมีผ้าปู
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+การเดินทาง 
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+จากตัวเมืองจังหวัดเชียงใหม่เดินทางโดยใช้เส้นทางหมายเลข 107 มุ่งหน้าไปทางอำเภอแม่ริมเข้าสู่อำเภอแม่แตง จากนั้นเลี้ยวซ้ายเข้าสู่เส้นทางหมายเลข 1095 ไปทางอำเภอปาย เข้าไปประมาณ 10 กิโลเมตรจะเห็นป้ายบอกทางเข้าสู่ศูนย์พัฒนาโครงการหลวงม่อนเงาะอยู่ขวามือ (ไปทางเดียวกับไร่ชาลุงเดช) เข้าไปอีกประมาณ 7 กิโลเมตร จะเจอซุ้มประตูทางเข้าสู่ตำบลเมืองก๋ายและมีทางแยกให้เลี้ยวซ้ายไปทางโครงการหลวงม่อนเงาะ หลังจากผ่านหมู่บ้าน เข้าไปอีกประมาณ 7 กิโลเมตร ถนนจะเริ่มแคบเป็นทางชันขึ้นเขาบางช่วงรถสวนกันแทบไม่ได้ เป็นถนนคอนกรีตและช่วงท้ายจะเป็นถนนลูกรังไม่แนะนำให้ใช้รถเก๋งขึ้นไป เมื่อขับไปเรื่อยๆก็จะถึงถึงดอยม่อยเงาะ 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+085 621 8991 ผู้ประสานงานกลุ่มการท่องเที่ยวบ้านม่อนเงาะ
