@@ -45,3 +45,5 @@ tags: []
 การเดินทาง : รถยนต์ มอเตอร์ไซค์ มาได้หมด
 
 รถสาธารณะติดต่อสอบถามทางที่พักได้เลย
+
+[**https://www.facebook.com/On.the.roadTH/**](https://www.facebook.com/On.the.roadTH/ "https://www.facebook.com/On.the.roadTH/")
