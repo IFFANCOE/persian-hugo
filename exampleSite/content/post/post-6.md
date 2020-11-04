@@ -4,11 +4,8 @@ date: 2020-08-06T06:14:34+00:00
 image: "/images/116570716_298334261602003_7075509019767244359_o.jpg"
 author: John Doe
 description: This is meta description.
-categories:
-- Nature
-tags:
-- green
-- tree
+categories: []
+tags: []
 
 ---
 " กั ล ย า ณิ วั ฒ น า "
