@@ -1,7 +1,7 @@
 ---
-title: IF
+title: แม่ยายโฮมสเตย์
 date: 2019-05-12T12:14:34.000+06:00
-image: images/post/post-4.jpg
+image: "/images/111999231_293661642069265_1343731738592555563_o.jpg"
 author: John Doe
 description: This is meta description.
 categories:
@@ -11,41 +11,36 @@ tags:
 - memo
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Mae yay coffee & Homestay Huayhom
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Mae La Noi District, Mae Hong Son Province, Thailand
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+แม่ยายโฮมสเตย์ โฮมสเตย์เล็กๆ
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+ตั้งอยู่ท่ามกลางหุบเขาที่บ้านห้วยห้อม อ.แม่ลาน้อย
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+จ.แม่ฮ่องสอน ที่นี่เป็นทั้งโฮมสเตย์และร้านกาแฟ
+
+เหมาะกับการมาพักผ่อน สัมผัสอากาศหนาวๆ นั่งดูภูเขา สายหมอกจางๆ จิบกาแฟกลิ่นหอมๆกับสายลมเย็นๆ กาแฟที่นี่
+
+ปลูกเอง คั่วเอง และเป็นแหล่งกาแฟอาราบิก้าขึ้นชื่อที่ทุกคนที่มาบ้านห้วยห้อมจะต้องไม่พลาดที่จะชิมให้ได้
+
+ ราคาที่พัก คืนละ 350 บาท/คน พร้อมอาหาร เย็น-เช้า
+
+มีห้องน้ำอยู่นอกตัวบ้าน ห้องพักมี 2 ห้อง แบ่งโซนลูกค้ากับเจ้าบ้าน ***รับลูกค้าแค่วันละกลุ่ม***
+
+ร้านกาแฟ เปิด 08:00-17:00 น.
+
+พี่เจ้าของบ้านเป็นกันเอง ใจดีมาก "รอบหน้าไว้มาอีกให้ได้นะ" คำพูดสุดท้ายก่อนกลับที่เหมือนจะธรรมดา แต่สำหรับผมมันคือมิตรภาพและทำให้ผมจะต้องกลับไปอีกครั้งให้ได้
+
+ติดต่อที่พัก : 095-572-6722
+
+การเดินทาง
+
+ รถสาธารณะ
+
+จากกรุงเทพฯ มีรถของ สมบัติทัวร์ วิ่งตรงจาก กรุงเทพฯ มาอำเภอแม่สะเรียง วันละ 3 รอบ พอถึงอำเภอแม่สะเรียง สามารถเช่ารถขับไปที่บ้านห้วยห้อมได้
+
+รถส่วนตัว 
+
+เปิด GPS มาที่บ้านห้วยห้อมได้เลย มอเตอร์ไซค์ รถยนต์ รถเก๋ง มาได้หมด ใครที่มาจากเชียงใหม่แนะนำให้วิ่งเส้น 108 เพราะระหว่างทางมีที่แวะเยอะเลย
