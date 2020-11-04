@@ -30,7 +30,7 @@ sections:
   label: Contact
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
-  label: Privacy Policy
+  label: TOP 10
 - type: heading
   label: Configuration
 - type: directory
