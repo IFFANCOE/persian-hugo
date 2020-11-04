@@ -1,7 +1,7 @@
 ---
 title: ม่อนจอง
 date: 2020-08-05T06:14:34+00:00
-image: "/images/121181336_353455782756517_5601313928881576770_o.jpg"
+image: "/images/121234903_353456309423131_6594435806293748772_o.jpg"
 author: John Doe
 description: This is meta description.
 categories:
