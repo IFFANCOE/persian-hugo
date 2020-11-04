@@ -1,15 +1,11 @@
 ---
 title: 'แม่กำปอง '
 date: 2019-05-12T12:14:34.000+06:00
-image: images/post/post-3.jpg
+image: "/images/106102829_268021837966579_8199839939596640796_o.jpg"
 author: John Doe
 description: This is meta description.
-categories:
-- inspire
-tags:
-- new
-- inspire
-- nature
+categories: []
+tags: []
 
 ---
 " แ ม่ กำ ป อ ง "
