@@ -1,49 +1,34 @@
 ---
-title: "Writing Through The Pain"
-date: 2019-05-12T12:14:34+06:00
-image: "images/post/post-4.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["writing"]
-tags: ["book", "memo"]
-draft: false
+title: ม่อนจอง
+date: 2020-08-05T06:14:34+00:00
+image: "/images/121181336_353455782756517_5601313928881576770_o.jpg"
+author: John Doe
+description: This is meta description.
+categories:
+- writing
+tags:
+- book
+- memo
+
 ---
+คิดถึงความหนาวบนดอยม่อนจอง
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+ดอยม่อนจอง อ.อมก๋อย จ.เชียงใหม่
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+จะเริ่มเปิดตั้งแต่ 1 พฤศจิกายน เป็นต้นไป จนถึงกลางเดือนกุมภาพันธ์ ตอนนี้เปิดให้จองแล้ว เตรียมตัวกันได้เลย
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+ศูนย์บริการท่องเที่ยวดอยม่อนจอง
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+![☎️](https://static.xx.fbcdn.net/images/emoji.php/v9/ta9/1.5/16/260e.png =16x16) 092-559-7201
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/t5/1.5/16/1f4cc.png =16x16)อ่านรีวิว เพิ่มเติม
+
+[**https://www.facebook.com/.../a.154979.../247013686734061/...**](https://www.facebook.com/.../a.154979.../247013686734061/... "https://www.facebook.com/.../a.154979.../247013686734061/...")
+
+[**https://www.facebook.com/On.the.roadTH/**](https://www.facebook.com/On.the.roadTH/ "https://www.facebook.com/On.the.roadTH/")
+
+[**#ม่อนจอง**](https://www.facebook.com/hashtag/%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%88%E0%B8%AD%E0%B8%87?__cft__\[0\]=AZXeNNiYxiXmk0wBgmPeslu5TPbeqeLyfd2KyD_1f8p9gKsATZ1q66BpZYIcyNv64xYMK9F-lr6cwEJAfwpscW4VL4dC0VF-LzqZ0GWDMbz7rf-iZZfFYE_ExyICHDQFzpDy5FuL7zCItRlNQLaRLQQJJCvGlBUi7Lpkp-ySkdEc7c6GYNZcLk8iCEfhUC3H9jQ&__tn__=*NK-R)
+
+[**#CHIANGMAI**](https://www.facebook.com/hashtag/chiangmai?__cft__\[0\]=AZXeNNiYxiXmk0wBgmPeslu5TPbeqeLyfd2KyD_1f8p9gKsATZ1q66BpZYIcyNv64xYMK9F-lr6cwEJAfwpscW4VL4dC0VF-LzqZ0GWDMbz7rf-iZZfFYE_ExyICHDQFzpDy5FuL7zCItRlNQLaRLQQJJCvGlBUi7Lpkp-ySkdEc7c6GYNZcLk8iCEfhUC3H9jQ&__tn__=*NK-R)
+
+[**#ONTHEROAD**](https://www.facebook.com/hashtag/ontheroad?__cft__\[0\]=AZXeNNiYxiXmk0wBgmPeslu5TPbeqeLyfd2KyD_1f8p9gKsATZ1q66BpZYIcyNv64xYMK9F-lr6cwEJAfwpscW4VL4dC0VF-LzqZ0GWDMbz7rf-iZZfFYE_ExyICHDQFzpDy5FuL7zCItRlNQLaRLQQJJCvGlBUi7Lpkp-ySkdEc7c6GYNZcLk8iCEfhUC3H9jQ&__tn__=*NK-R)
