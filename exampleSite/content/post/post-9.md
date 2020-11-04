@@ -35,6 +35,10 @@ Mae La Noi District, Mae Hong Son Province, Thailand
 
 ติดต่อที่พัก : 095-572-6722
 
+หรือที่เพจ 
+
+[**Mae yay coffee&Homestay Huayhom**](https://www.facebook.com/MaeyaycoffeeRoaster/?__cft__\[0\]=AZUTHdSCPjO5549DzvJBY47IkSbZXMIfBbK0pQgq6WVgixMFWRI7EUigAWdy_FPlPEBuekP-qXSzVPpnF2U7hKHIHI0nc3tPkXXtg3JTUb0FLPwpX8J_KEZTjtYX4plITiy2eP8FlcWwgGCsCuA9zAFE4eJeJIPvwuVrosFHvNC_0OHbT2Wr_FwWq2KbMlByQNU&__tn__=kK-R)
+
 การเดินทาง
 
  รถสาธารณะ
