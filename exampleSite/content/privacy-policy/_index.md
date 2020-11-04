@@ -26,3 +26,5 @@ description: this is meta description
 ![](/images/100058405_249112136524216_8286438965775433728_o.jpg)<br><br><br>
 
 <h1 style="text-align:center">7.แม่ยายโฮมสเตย์</h1><br>
+
+![](/images/111999231_293661642069265_1343731738592555563_o.jpg)<br><br><br>
