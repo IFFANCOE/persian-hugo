@@ -1,7 +1,7 @@
 ---
 title: ดอยแม่โถ ทุ่งหญ้าสะวันนา 360องศา
 date: 2020-06-10T17:00:00+00:00
-image: "/images/119907499_2696509770562346_2303163715166973424_o.jpg"
+image: "/images/119907499_2696509770562346_2303163715166973424_o-1.jpg"
 author: John Doe
 description: This is meta description.
 categories: []
