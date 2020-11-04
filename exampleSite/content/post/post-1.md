@@ -1,6 +1,6 @@
 ---
 title: สันป่าเกี๊ยะ
-date: 2020-05-12T12:14:34.000+06:00
+date: 2020-05-12T06:14:34+00:00
 image: "/images/116871567_300672081368221_2154368816645311286_o.jpg"
 author: John Doe
 description: This is meta description.
