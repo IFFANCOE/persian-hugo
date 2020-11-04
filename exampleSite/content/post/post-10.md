@@ -4,11 +4,8 @@ date: 2020-06-10T17:00:00+00:00
 image: "/images/119907499_2696509770562346_2303163715166973424_o.jpg"
 author: John Doe
 description: This is meta description.
-categories:
-- Tree
-tags:
-- tree
-- nice
+categories: []
+tags: []
 
 ---
 ### **มันต้องเที่ยว** อยู่ที่ **ลานกางเต็นท์ ทุ่งหญ้าสะวันนาดอยแม่โถ**
