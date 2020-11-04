@@ -1,7 +1,7 @@
 ---
 title: 'บ้านป่าบงเปียง '
 date: 2020-09-02T06:14:34+00:00
-image: "/images/119980439_2700978743448782_2506489521626867210_o.jpg"
+image: "/images/119980439_2700978743448782_2506489521626867210_o-1.jpg"
 author: John Doe
 description: This is meta description.
 categories: []
